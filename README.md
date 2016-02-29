@@ -21,3 +21,6 @@ just delete from your directory
 * run_analysis.R
 * TidyData.txt and 
 * remove tidydata from your environment
+
+### Many thanks
+to Coursera mentors Al Warren and "thoughtfulbloke aka David Hood"

@@ -1,9 +1,4 @@
----
-title: "run_analysis CodeBook"
-author: "Pamla L Monaghan"
-date: "February 29, 2016"
-output: html_document
----
+
 
 In partial fulfillment of the Coursera Data Science Specialisation: Getting and Cleaning Data course, this CodeBook accompanies the run_analysis.R script and the TidyData.txt file found in the GitHub Repository for user:PamlaM
 
